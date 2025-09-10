@@ -1,11 +1,11 @@
-#🎬Cinema Ticket Management System
+# Cinema Ticket Management System
 📌 Overview
 
 This is a Console-based Cinema Ticket Management System built with C#.
 The system allows Admins and Customers to interact with cinema operations such as registration, login, movie management, seat booking, and ticket printing.
 
-##🚀 Features
-###👤 User Management
+## Features
+### User Management
 
 Register as Admin (username ends with #) or Customer.
 
@@ -13,7 +13,7 @@ Secure login with validation.
 
 Display list of registered users.
 
-###🎥 Movie Management
+### 🎥 Movie Management
 
 Admin only can add movies to the system.
 
@@ -21,7 +21,7 @@ Movies are stored with title, genre, hall number, and available seats.
 
 Supports multiple genres: Horror, Action, Comedy, Drama, Romance.
 
-###🎟️ Ticket Booking
+### 🎟️ Ticket Booking
 
 Customers can view available movies.
 
@@ -29,13 +29,13 @@ Auto-assign seats when booking.
 
 Print ticket with details: Film, Seat, Hall, Date.
 
-###💾 Data Persistence
+### 💾 Data Persistence
 
 Data is saved in text files (Movies.txt, Tickets.txt, Registers.txt) using a DataManager class.
 
 Ensures persistence across sessions.
 
-###🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 C# .NET Console Application
 
@@ -45,7 +45,7 @@ Exception Handling (custom methods for validation)
 
 File Handling (System.IO) for saving/loading data
 
-##📂 Project Structure
+## 📂 Project Structure
 
 ExceptionHandling → Handles input validation (numbers, strings).
 
@@ -65,7 +65,7 @@ DataManager → Handles saving/loading data to text files.
 
 Program → Main menu with options to interact with the system.
 
-###📖 How to Use
+### 📖 How to Use
 
 Clone the Repository
 
@@ -96,7 +96,7 @@ Use the Menu
 
 8 → Exit the system
 
-##📸 Sample Ticket Output
+## 📸 Sample Ticket Output
 ****************************************
 *           CINEMA TICKET              *
 ****************************************
@@ -106,6 +106,6 @@ Use the Menu
 * Date : 2025-09-10 21:30              *
 ****************************************
 
-##👩‍💻 Author
+## 👩‍💻 Author
 
 Aml Osman
