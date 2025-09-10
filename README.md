@@ -1,4 +1,4 @@
-#🎬 Cinema Ticket Management System
+#🎬Cinema Ticket Management System
 📌 Overview
 
 This is a Console-based Cinema Ticket Management System built with C#.
