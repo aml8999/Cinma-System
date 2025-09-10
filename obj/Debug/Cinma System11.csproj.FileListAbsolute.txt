@@ -1,0 +1,7 @@
+C:\Users\Workstation Shop\source\repos\Cinma System11\Cinma System11\bin\Debug\Cinma System11.exe.config
+C:\Users\Workstation Shop\source\repos\Cinma System11\Cinma System11\bin\Debug\Cinma System11.exe
+C:\Users\Workstation Shop\source\repos\Cinma System11\Cinma System11\bin\Debug\Cinma System11.pdb
+C:\Users\Workstation Shop\source\repos\Cinma System11\Cinma System11\obj\Debug\Cinma System11.csproj.AssemblyReference.cache
+C:\Users\Workstation Shop\source\repos\Cinma System11\Cinma System11\obj\Debug\Cinma System11.csproj.CoreCompileInputs.cache
+C:\Users\Workstation Shop\source\repos\Cinma System11\Cinma System11\obj\Debug\Cinma System11.exe
+C:\Users\Workstation Shop\source\repos\Cinma System11\Cinma System11\obj\Debug\Cinma System11.pdb
